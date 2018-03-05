@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 3376eaba2205af84690c422203dc2b11
+timeCreated: 1520063796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: side_head
+    21300002: side_neck
+    21300004: side_frontHand
+    21300006: side_torso
+    21300008: side_backHand
+    21300010: side_hip
+    21300012: side_frontArm
+    21300014: side_frontLeg
+    21300016: side_backLeg
+    21300018: side_backArm
+    21300020: sideTemplate_10
+    21300022: sideTemplate_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side_head
+      rect:
+        serializedVersion: 2
+        x: 338.8897
+        y: 2086.492
+        width: 801.78326
+        height: 1050.508
+      alignment: 9
+      pivot: {x: 0.5040144, y: 0.522136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_neck
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2294.203
+        width: 218.38855
+        height: 241.29248
+      alignment: 9
+      pivot: {x: 0.49682093, y: 0.50062525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_frontHand
+      rect:
+        serializedVersion: 2
+        x: 22.000004
+        y: 1882.3457
+        width: 301.13116
+        height: 302.562
+      alignment: 9
+      pivot: {x: 0.4964614, y: 0.5012342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_torso
+      rect:
+        serializedVersion: 2
+        x: 940.85675
+        y: 1259.2238
+        width: 694.3327
+        height: 962.3644
+      alignment: 9
+      pivot: {x: 0.5035673, y: 0.4995783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_backHand
+      rect:
+        serializedVersion: 2
+        x: 22.000004
+        y: 1435.5006
+        width: 301.13116
+        height: 304.09387
+      alignment: 9
+      pivot: {x: 0.4964614, y: 0.49819943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_hip
+      rect:
+        serializedVersion: 2
+        x: 1687.6462
+        y: 1189.0414
+        width: 520.01196
+        height: 337.74402
+      alignment: 9
+      pivot: {x: 0.5179761, y: 0.5002564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_frontArm
+      rect:
+        serializedVersion: 2
+        x: 9.269575
+        y: 711.1065
+        width: 909.69965
+        height: 698.0395
+      alignment: 9
+      pivot: {x: 0.4976702, y: 0.49981913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_frontLeg
+      rect:
+        serializedVersion: 2
+        x: 1131.3633
+        y: 482.1534
+        width: 410.84204
+        height: 651.562
+      alignment: 9
+      pivot: {x: 0.49930802, y: 0.5047049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_backLeg
+      rect:
+        serializedVersion: 2
+        x: 1722.7091
+        y: 479.14078
+        width: 418.6869
+        height: 675.8639
+      alignment: 9
+      pivot: {x: 0.4676308, y: 0.49175468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: side_backArm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5340309
+        width: 882.20874
+        height: 662.68304
+      alignment: 9
+      pivot: {x: 0.46644288, y: 0.4971698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sideTemplate_10
+      rect:
+        serializedVersion: 2
+        x: 895.2039
+        y: 0
+        width: 535.8482
+        height: 404.27554
+      alignment: 9
+      pivot: {x: 0.52122235, y: 0.4576087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sideTemplate_11
+      rect:
+        serializedVersion: 2
+        x: 1487.6462
+        y: 7.551983
+        width: 553.1969
+        height: 385.93375
+      alignment: 9
+      pivot: {x: 0.48419222, y: 0.45978883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99619729021632
+  assetBundleName: 
+  assetBundleVariant: 

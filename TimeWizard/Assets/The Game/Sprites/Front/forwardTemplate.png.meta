@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 45a3322452e554949a2246df55519998
+timeCreated: 1520174827
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: forward_neck
+    21300002: forward_head
+    21300004: forward_lArm
+    21300006: forward_torso
+    21300008: forward_rArm
+    21300010: forward_lHand
+    21300012: forward_hips
+    21300014: forward_lLeg
+    21300016: forward_rLeg
+    21300018: forward_rHand
+    21300020: forward_lFoot
+    21300022: forward_rFoot
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forward_neck
+      rect:
+        serializedVersion: 2
+        x: 17.06094
+        y: 2051.0254
+        width: 276.95187
+        height: 340.41553
+      alignment: 9
+      pivot: {x: 0.5034776, y: 0.63003767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_head
+      rect:
+        serializedVersion: 2
+        x: 714.9772
+        y: 2087.2078
+        width: 683.51294
+        height: 995.2522
+      alignment: 9
+      pivot: {x: 0.48722243, y: 0.591601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lArm
+      rect:
+        serializedVersion: 2
+        x: 18.535969
+        y: 1041.3525
+        width: 589.63354
+        height: 1221.4446
+      alignment: 9
+      pivot: {x: 0.5265372, y: 0.42420876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_torso
+      rect:
+        serializedVersion: 2
+        x: 729.13544
+        y: 1199.9558
+        width: 760.3818
+        height: 931.8296
+      alignment: 9
+      pivot: {x: 0.47392583, y: 0.5017486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rArm
+      rect:
+        serializedVersion: 2
+        x: 1498.0026
+        y: 703.19946
+        width: 585.85315
+        height: 1229.5527
+      alignment: 9
+      pivot: {x: 0.47622418, y: 0.3727376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lHand
+      rect:
+        serializedVersion: 2
+        x: 22.675808
+        y: 468.39154
+        width: 333.0863
+        height: 460.7303
+      alignment: 9
+      pivot: {x: 0.39726692, y: 0.5482784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_hips
+      rect:
+        serializedVersion: 2
+        x: 483.2256
+        y: 514.19403
+        width: 681.8721
+        height: 503.7262
+      alignment: 9
+      pivot: {x: 0.5290939, y: 0.5266869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lLeg
+      rect:
+        serializedVersion: 2
+        x: 1328.9008
+        y: 0
+        width: 354.72058
+        height: 687.3093
+      alignment: 9
+      pivot: {x: 0.52181673, y: 0.48668045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rLeg
+      rect:
+        serializedVersion: 2
+        x: 1725.6729
+        y: 0
+        width: 348.79297
+        height: 686.0696
+      alignment: 9
+      pivot: {x: 0.5026679, y: 0.48464474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rHand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.132992
+        width: 325.0419
+        height: 421.96674
+      alignment: 9
+      pivot: {x: 0.41686928, y: 0.4926147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lFoot
+      rect:
+        serializedVersion: 2
+        x: 507.2024
+        y: 0
+        width: 334.27716
+        height: 425.4426
+      alignment: 9
+      pivot: {x: 0.34491602, y: 0.4089858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rFoot
+      rect:
+        serializedVersion: 2
+        x: 847.24335
+        y: 10.105021
+        width: 352.26276
+        height: 418.00793
+      alignment: 9
+      pivot: {x: 0.59261626, y: 0.40883183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99630504606681
+  assetBundleName: 
+  assetBundleVariant: 
