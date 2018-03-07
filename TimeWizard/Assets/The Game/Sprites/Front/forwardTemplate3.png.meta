@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: c3abf8ffb78506b428b0188bbaa8dfdf
+timeCreated: 1520405471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: forward_rEyebrow
+    21300002: forward_head
+    21300004: forward_hair
+    21300006: forward_mouth
+    21300008: forward_lEyebrow
+    21300010: forward_neck
+    21300012: forward_lEye
+    21300014: forward_rEye
+    21300016: forward_lArm
+    21300018: forward_torso
+    21300020: forward_lEar
+    21300022: forward_rEar
+    21300024: forward_nose
+    21300026: forward_lHand
+    21300028: forward_hips
+    21300030: forward_rArm
+    21300032: forward_rHand
+    21300034: forward_lFoot
+    21300036: forward_rFoot
+    21300038: forward_lLeg
+    21300040: forward_rLeg
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forward_rEyebrow
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2612.808
+        width: 143.50293
+        height: 103.134766
+      alignment: 9
+      pivot: {x: 0.49127916, y: 0.49150884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_head
+      rect:
+        serializedVersion: 2
+        x: 720.37354
+        y: 2087.2078
+        width: 667.3237
+        height: 960.36304
+      alignment: 9
+      pivot: {x: 0.4909558, y: 0.6130934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_hair
+      rect:
+        serializedVersion: 2
+        x: 1449.5525
+        y: 2280.8325
+        width: 655.4475
+        height: 682.12256
+      alignment: 9
+      pivot: {x: 0.49957854, y: 0.49868968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_mouth
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2440.8208
+        width: 294.08188
+        height: 179.19482
+      alignment: 9
+      pivot: {x: 0.49986073, y: 0.49766615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lEyebrow
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2458.8196
+        width: 141.95056
+        height: 101.58252
+      alignment: 9
+      pivot: {x: 0.49665135, y: 0.4939868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_neck
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2086
+        width: 218
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lEye
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2293.384
+        width: 68.989624
+        height: 73.64209
+      alignment: 9
+      pivot: {x: 0.48557937, y: 0.4768464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rEye
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2136.843
+        width: 70.54205
+        height: 72.08984
+      alignment: 9
+      pivot: {x: 0.48906955, y: 0.48768288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lArm
+      rect:
+        serializedVersion: 2
+        x: 1860.4631
+        y: 1592.2305
+        width: 198.36353
+        height: 353.04236
+      alignment: 9
+      pivot: {x: 0.44633582, y: 1.3093876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_torso
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1216
+        width: 677
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lEar
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1909.8596
+        width: 109.351074
+        height: 194.71729
+      alignment: 9
+      pivot: {x: 0.4938212, y: 0.49887845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rEar
+      rect:
+        serializedVersion: 2
+        x: 1694.0001
+        y: 1909.8596
+        width: 107.798706
+        height: 196.26953
+      alignment: 9
+      pivot: {x: 0.49165598, y: 0.49493295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_nose
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1594
+        width: 161
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lHand
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 522
+        width: 288
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_hips
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 571
+        width: 611
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rArm
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 715
+        width: 483
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rHand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 282
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lFoot
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 294
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rFoot
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 9
+        width: 293
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_lLeg
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 0
+        width: 276
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forward_rLeg
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 0
+        width: 276
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99641343406372
+  assetBundleName: 
+  assetBundleVariant: 

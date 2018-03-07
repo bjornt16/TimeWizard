@@ -34,7 +34,10 @@ namespace Anima2D
 		[SerializeField][HideInInspector]
 		Transform[] m_BoneTransforms;
 
-		public SpriteMesh spriteMesh {
+        public bool spriteMeshIsInstance = false;
+
+
+        public SpriteMesh spriteMesh {
 			get { return m_SpriteMesh; }
 			set {
                 if(value != null && value.IsTemplate && value != m_SpriteMesh)
@@ -45,6 +48,7 @@ namespace Anima2D
                     m_SpriteMesh.IsTemplate = false;
                     m_SpriteMesh.sharedMesh = m_SpriteMeshOriginal.sharedMesh;
                     m_SpriteMesh.sprite = m_SpriteMeshOriginal.sprite;
+                    spriteMeshIsInstance = true;
                 }
             }
 		}

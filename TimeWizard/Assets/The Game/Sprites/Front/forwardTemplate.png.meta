@@ -139,12 +139,12 @@ TextureImporter:
       name: forward_head
       rect:
         serializedVersion: 2
-        x: 714.9772
+        x: 720.37354
         y: 2087.2078
-        width: 683.51294
-        height: 995.2522
+        width: 667.3237
+        height: 960.36304
       alignment: 9
-      pivot: {x: 0.48722243, y: 0.591601}
+      pivot: {x: 0.4909558, y: 0.6130934}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,6 +292,6 @@ TextureImporter:
     outline: []
     physicsShape: []
   spritePackingTag: 
-  userData: 99630504606681
+  userData: 99640889250409
   assetBundleName: 
   assetBundleVariant: 

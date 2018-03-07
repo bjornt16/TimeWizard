@@ -636,7 +636,9 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\The Game\Material\Shader\SpriteMesh.shader" />
     <None Include="Assets\The Game\Material\Shader\TextureShader.shader" />
+    <None Include="Assets\The Game\Material\Shader\unlit.shader" />
     <None Include="Assets\WavySprite\Shaders\WavySprite.shader" />
     <None Include="Assets\WavySprite\readme.txt" />
   </ItemGroup>

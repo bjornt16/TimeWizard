@@ -23,10 +23,11 @@ public class SceneLoader : SingletonMB<SceneLoader>
 
     IEnumerator LoadScene(string scene)
     {
+        Debug.Log("scene: " + scene);
         if (scene == "")
             yield break;
 
-        async = SceneManager.LoadSceneAsync(loadScene, LoadSceneMode.Additive);
+        async = SceneManager.LoadSceneAsync(scene, LoadSceneMode.Additive);
         if (async == null)
             yield break;
         //instantiate the loading screen, with progress bar.

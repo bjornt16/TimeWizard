@@ -125,12 +125,12 @@ TextureImporter:
       name: backwards_head
       rect:
         serializedVersion: 2
-        x: 832.8796
-        y: 2178
-        width: 686.9637
-        height: 998.4741
+        x: 843.6723
+        y: 2169.9053
+        width: 676.3144
+        height: 942.69604
       alignment: 9
-      pivot: {x: 0.49801838, y: 0.49976283}
+      pivot: {x: 0.48990208, y: 0.53791994}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,7 +200,7 @@ TextureImporter:
         width: 648.3475
         height: 443.64563
       alignment: 9
-      pivot: {x: 0.47768876, y: 0.51499903}
+      pivot: {x: 0.45723787, y: 0.41786653}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,6 +292,6 @@ TextureImporter:
     outline: []
     physicsShape: []
   spritePackingTag: 
-  userData: 99630415333387
+  userData: 99640892975248
   assetBundleName: 
   assetBundleVariant: 
