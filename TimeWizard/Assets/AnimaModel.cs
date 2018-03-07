@@ -16,7 +16,7 @@ public class AnimaModel : MonoBehaviour {
     public SpriteMeshInstance[] backSprite;
 
     public Animator animator;
-    private Rigidbody rb;
+    public Rigidbody rb;
 
     public Transform aimSprite;
 

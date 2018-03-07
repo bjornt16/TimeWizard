@@ -7,8 +7,8 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: SpriteMesh
-  m_Shader: {fileID: 4800000, guid: 5e0b7dc1782a986469ed1446388360f5, type: 3}
-  m_ShaderKeywords: GLOW_ON
+  m_Shader: {fileID: 4800000, guid: 600fea166d8a19e4bb5174dbb89e1586, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA GLOW_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0

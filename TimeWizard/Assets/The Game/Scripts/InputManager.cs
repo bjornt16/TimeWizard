@@ -8,13 +8,18 @@ public class InputManager : SingletonMB<InputManager> {
     private Rigidbody rb;
 
     float maximumSpeed = 10;
-    float decreaseIncrement = 1f;
+    float decreaseIncrement = 2f;
     float increaseIncrement = .333f;
     Vector3 currentSpeed;
     float currentHighestSpeed;
 
     bool horInput;
     bool vertInput;
+
+    public GameObject projectile;
+    public GameObject projectileSpawn;
+
+    Vector3 mouse;
 
     private void Awake()
     {
@@ -53,6 +58,28 @@ public class InputManager : SingletonMB<InputManager> {
         }
 
         return currentSpeed;
+    }
+
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            Debug.Log("Click");
+            Shoot();
+        }
+    }
+
+    public void Shoot()
+    {
+        GameObject pInstance = Instantiate(projectile, projectileSpawn.transform.position, Quaternion.identity);
+        Rigidbody pRB = pInstance.GetComponent<Rigidbody>();
+        Vector3 vel = mouse - pInstance.transform.position;
+
+        vel.Normalize();
+
+        pRB.velocity = new Vector3(vel.x, 0, vel.z) * 30;
+        Debug.Log(mouse);
+        Destroy(pInstance, 5f);
     }
 
     private void FixedUpdate()
@@ -106,7 +133,7 @@ public class InputManager : SingletonMB<InputManager> {
         if (Physics.Raycast( ray, out hit, 50f, layer_mask) && hit.transform.tag == "GameWorld")
         {
 
-            Vector3 mouse = (hit.point);
+            mouse = (hit.point);
             Quaternion q = new Quaternion();
             q.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, 0);
            

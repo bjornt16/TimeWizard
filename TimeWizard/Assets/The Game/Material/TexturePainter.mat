@@ -141,7 +141,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _FillStrength: 1
-    - _Gloss: 0.32
+    - _Gloss: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
